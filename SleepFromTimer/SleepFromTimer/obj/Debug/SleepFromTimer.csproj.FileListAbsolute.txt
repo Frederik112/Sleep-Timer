@@ -1,0 +1,8 @@
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\bin\Debug\SleepFromTimer.exe.config
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\bin\Debug\SleepFromTimer.exe
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\bin\Debug\SleepFromTimer.pdb
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\obj\Debug\SleepFromTimer.Form1.resources
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\obj\Debug\SleepFromTimer.Properties.Resources.resources
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\obj\Debug\SleepFromTimer.csproj.GenerateResource.Cache
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\obj\Debug\SleepFromTimer.exe
+c:\users\frossen\documents\visual studio 2015\Projects\SleepFromTimer\SleepFromTimer\obj\Debug\SleepFromTimer.pdb
